@@ -1,6 +1,6 @@
 ﻿using System.Text.Json;
 
-namespace _09._01___Verzeichnisinformationen
+namespace dotNet_09_Serialisierung_01_Verzeichnisinformationen
 {
     internal class Program
     {

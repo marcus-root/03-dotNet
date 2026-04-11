@@ -1,7 +1,7 @@
 ﻿using System.Net.Http.Headers;
 using System.Text.Json;
 
-namespace _18._02___Personendaten
+namespace dotNet_17_Services_02_Personendaten
 {
     internal class Program
     {
@@ -25,7 +25,7 @@ namespace _18._02___Personendaten
             Entity entA = JsonSerializer.Deserialize<Entity>(ageMessage);
             Entity entN = JsonSerializer.Deserialize<Entity>(nationalityMessage);
 
-            Entity ent = new Entity() { Name=entG.Name, Age = entA.Age, Gender = entG.Gender, Countries = entN.Countries };
+            Entity ent = new Entity() { Name = entG.Name, Age = entA.Age, Gender = entG.Gender, Countries = entN.Countries };
 
             Console.WriteLine(ent);
 

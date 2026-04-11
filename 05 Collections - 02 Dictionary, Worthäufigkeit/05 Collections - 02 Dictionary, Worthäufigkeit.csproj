@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net8.0</TargetFramework>
-    <RootNamespace>_05._02___Dictionary___Worthäufigkeit</RootNamespace>
+    <RootNamespace>dotNet_05_Collections_02_Dictionary_Worthäufigkeit</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
   </PropertyGroup>

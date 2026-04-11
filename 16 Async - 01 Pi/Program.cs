@@ -1,4 +1,4 @@
-﻿namespace _17._01___Pi
+﻿namespace dotNet_16_Async_01_Pi
 {
     internal class Program
     {

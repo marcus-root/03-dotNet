@@ -1,4 +1,4 @@
-﻿namespace _09._02___Produkte
+﻿namespace dotNet_09_Serialisierung_02_Produkte
 {
     class Menu
     {

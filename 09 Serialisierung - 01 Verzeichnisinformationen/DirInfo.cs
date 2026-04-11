@@ -1,4 +1,4 @@
-﻿namespace _09._01___Verzeichnisinformationen
+﻿namespace dotNet_09_Serialisierung_01_Verzeichnisinformationen
 {
     internal class DirInfo
     {
@@ -11,10 +11,5 @@
         {
             return $"{Pfad}\nErstelldatum: {Erstelldatum} | Dateien: {AnzahlDateien}";
         }
-
-
-
     }
-
-
 }

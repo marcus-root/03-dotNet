@@ -1,4 +1,4 @@
-﻿namespace _06._01___Warpkern
+﻿namespace dotNet_07_Events_01_Warpkern
 {
     internal class Program
     {

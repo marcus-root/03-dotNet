@@ -1,4 +1,4 @@
-﻿namespace _16._01___Grundlagen
+﻿namespace dotNet_16_Tasks_01_Grundlagen
 {
     internal class Program
     {
@@ -7,7 +7,7 @@
             String pfad = @"F:\Texte";
             List<Task<Text>> tasks = new List<Task<Text>>();
 
-            foreach (String f in Directory.GetFiles(pfad,"*.txt"))
+            foreach (String f in Directory.GetFiles(pfad, "*.txt"))
             {
                 Task<Text> task = Task<Text>.Factory.StartNew(TaskMethode, f); // Task sofort starten, mit Übergabeparameter und Rückgabewert
                 Task<Text> taskLambda = Task<Text>.Factory.StartNew(parameter => { return new Text(parameter.ToString()); }, f); // Mit Lambda und anonymer Methode

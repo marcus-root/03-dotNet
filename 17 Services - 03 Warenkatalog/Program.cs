@@ -1,4 +1,4 @@
-﻿namespace _17_Services___03_Warenkatalog
+﻿namespace dotNet_17_Services_03_Warenkatalog
 {
     internal class Program
     {

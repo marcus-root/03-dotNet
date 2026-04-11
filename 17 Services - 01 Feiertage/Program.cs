@@ -1,7 +1,7 @@
 ﻿using System.Net.Http.Headers;
 using System.Text.Json;
 
-namespace _18._01___Feiertage
+namespace dotNet_17_Services_01_Feiertage
 {
     internal class Program
     {
@@ -36,7 +36,7 @@ namespace _18._01___Feiertage
             }
             Console.Write("Auswahl: ");
             if (!int.TryParse(Console.ReadLine(), out int auswahl)) return;
-            
+
             using HttpClient client = new();
             client.DefaultRequestHeaders.Accept.Add(new MediaTypeWithQualityHeaderValue("application/json"));
             client.DefaultRequestHeaders.Add("User-Agent", "Mein C# Programm");
@@ -44,7 +44,7 @@ namespace _18._01___Feiertage
 
             ApiResponse response = JsonSerializer.Deserialize<ApiResponse>(message);
 
-            if (response.status == "success")
+            if (response.status == "success" && response.feiertage != null)
             {
                 Console.WriteLine($"Feiertage aus {bundesländer[auswahl - 1].Item3} im Jahr {jahr}");
                 foreach (Feiertag f in response.feiertage)
@@ -52,7 +52,7 @@ namespace _18._01___Feiertage
                     Console.WriteLine($"{f.Date.ToShortDateString()}  {f.Name}");
                 }
             }
-            else Console.WriteLine(response.error_description);
+            else Console.WriteLine($"{response.error_description}{response.additional_note}");
 
         }
 

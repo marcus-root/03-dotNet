@@ -1,12 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Net;
-using System.Text;
+﻿using System.Net;
 using System.Text.RegularExpressions;
-using System.Threading.Tasks;
 
-namespace _16._05___DNS_und_HTML_Tags
+namespace dotNet_16_Tasks_05_DNS_und_HTML_Tags
 {
     internal class Website
     {
@@ -15,7 +10,7 @@ namespace _16._05___DNS_und_HTML_Tags
         String _html;
         SortedDictionary<String, int> _tags;
 
-        public Website(String dns) 
+        public Website(String dns)
         {
             _dns = dns;
             _tags = new SortedDictionary<String, int>();
@@ -25,7 +20,7 @@ namespace _16._05___DNS_und_HTML_Tags
         {
             int anzahlAdressen = _host.AddressList.Count();
             String adressen = "";
-            for (int i=0; i<anzahlAdressen; i++)
+            for (int i = 0; i < anzahlAdressen; i++)
             {
                 adressen += $"{_host.AddressList[i].ToString()} ";
             }
@@ -36,10 +31,10 @@ namespace _16._05___DNS_und_HTML_Tags
         {
             String rück = "";
             foreach (String tag in _tags.Keys)
-            { 
+            {
                 rück += $"{tag} {_tags[tag]}, ";
             }
-            return rück;
+            return rück.Substring(0, rück.Length - 2);
         }
 
         public void CountTags()
@@ -62,7 +57,7 @@ namespace _16._05___DNS_und_HTML_Tags
         {
             WebClient client = new WebClient();
             try { _html = client.DownloadString($"http://{_dns}"); }
-            catch (Exception e) {_html = "<donwloadError>o no</donwloadError>"; }
+            catch (Exception e) { _html = "<donwloadError>o no</donwloadError>"; }
         }
 
         public override string ToString()

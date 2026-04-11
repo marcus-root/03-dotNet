@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net8.0</TargetFramework>
-    <RootNamespace>_16._02___Kreiszahl_Pi___Git</RootNamespace>
+    <RootNamespace>dotNet_16_Tasks_02_Kreiszahl_Pi_Git</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
   </PropertyGroup>

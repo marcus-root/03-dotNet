@@ -1,0 +1,12 @@
+﻿Die Aufgabe war Folgendes: 
+In C# Klassen Train, RailwayStation und RailwayStationException für ein Bahnhof-Zug-System mit Exception-Handling erstellen.
+
+Klasse Train mit Zugnummer und Anzahl Waggons.
+
+Klasse RailwayStation mit Namen und maximaler Waggon-Kapazität. 
+Methode zum Hinzufügen eines Zugs (nur wenn Kapazität nicht überschritten; sonst RailwayStationException mit „train cant be added [Zugnummer]“). 
+Methode zum Ausfahren des ersten Zugs (zurückgeben und entfernen; bei leerem Bahnhof RailwayStationException mit „no train in railwaystation“). 
+FIFO-Verhalten implizieren.
+
+
+Aufgabenstellung mithilfe von KI zusammengefasst.

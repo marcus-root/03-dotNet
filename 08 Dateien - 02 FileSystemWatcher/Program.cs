@@ -1,4 +1,4 @@
-﻿namespace _08._02___FileSystemWatcher
+﻿namespace dotNet_08_Dateien_02_FileSystemWatcher
 {
     internal class Program
     {

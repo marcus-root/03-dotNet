@@ -1,10 +1,10 @@
-﻿namespace _16._05___DNS_und_HTML_Tags
+﻿namespace dotNet_16_Tasks_05_DNS_und_HTML_Tags
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            String dnsDateipfad = @"F:\dns.txt";
+            String dnsDateipfad = @"..\..\..\dns.txt";
             String[] dnsStrings = File.ReadAllLines(dnsDateipfad);
 
             List<Website> websites = new List<Website>();

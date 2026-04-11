@@ -1,7 +1,6 @@
 ﻿using System.Text.Json;
-using System.Linq;
 
-namespace _12._05___Bestellung
+namespace dotNet_12_LINQ_05_Bestellung
 {
     internal class Program
     {

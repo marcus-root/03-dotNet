@@ -1,0 +1,13 @@
+﻿Die Aufgabe war Folgendes: 
+In C# zwei Klassen mit Exception-Handling erstellen.
+
+Klasse Person mit öffentlichen, les-/schreibbaren Eigenschaften Name (String), Vorname (String) und Alter (int). 
+Bei negativen Werten für Alter eine Exception mit Meldung „Kein negatives Alter erlaubt!“ werfen. 
+In der Main-Methode mit gültigem und ungültigem Wert testen.
+
+Klasse SimpleDate mit Year (1–9999, sonst YearOutOfRangeException), 
+Month (1–12, sonst MonthOutOfRangeException) und Day (plausibel zum Monat, inklusive Schaltjahre - nach 1582 standard, davor vereinfacht). 
+Exceptions selbst von Exception ableiten.
+
+
+Aufgabenstellung mithilfe von KI zusammengefasst.

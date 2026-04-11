@@ -1,4 +1,4 @@
-﻿namespace _16._02___Kreiszahl_Pi___Git
+﻿namespace dotNet_16_Tasks_02_Kreiszahl_Pi_Git
 {
     internal class Program
     {

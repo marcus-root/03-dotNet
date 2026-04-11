@@ -1,6 +1,6 @@
 ﻿using System.Text.Json.Serialization;
 
-namespace _18._01___Feiertage
+namespace dotNet_17_Services_01_Feiertage
 {
     internal class Feiertag
     {

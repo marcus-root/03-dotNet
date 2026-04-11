@@ -1,4 +1,4 @@
-﻿namespace _16._04___Fibonaccizahlen
+﻿namespace dotNet_16_Tasks_04_Fibonaccizahlen
 {
     internal class Program
     {
@@ -10,7 +10,7 @@
             CancellationTokenSource cts = new CancellationTokenSource();
             Console.Write("Bitte Warten");
             Task punkteAusgabe = Task.Factory.StartNew(() => { while (true) { Console.Write("."); Task.Delay(500).Wait(); } }, cts.Token);
-            for(int i=start; i<anzahl+start; i++)
+            for (int i = start; i < anzahl + start; i++)
             {
                 int temp = i;
                 list.Add(Task<long>.Factory.StartNew(() => Fib(temp)));
@@ -22,12 +22,12 @@
 
             Console.WriteLine("\n\n");
             Console.WriteLine($"Die {anzahl} Fibonacci-Zahlen ab der {start}. Zahl:\n");
-            for(int i=0; i<list.Count; i++)
+            for (int i = 0; i < list.Count; i++)
             {
-                Console.WriteLine($"{i+start}: {list[i].Result, 12:N0}");
+                Console.WriteLine($"{i + start}: {list[i].Result,12:N0}");
             }
 
-            
+
         }
 
         static long Fib(int x)

@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net8.0</TargetFramework>
-    <RootNamespace>_05._01___Stacks___Kommando_tac___Klammersetzung</RootNamespace>
+    <RootNamespace>dotNet_05_Collections_01_Stacks_tac_Klammersetzung</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
   </PropertyGroup>
