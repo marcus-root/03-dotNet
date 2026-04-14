@@ -1,0 +1,12 @@
+﻿Die Aufgabe war Folgendes: 
+Eine Methode GetLimit für ein int-Array erstellen, die mithilfe eines Delegates den kleinsten oder größten Wert bestimmt.
+
+Funktion
+GetLimit sollte einen Delegate vom Typ VergleichsHandler und ein Array mit Zufallszahlen erhalten. 
+Zurückgegeben werden sollte der Index des kleinsten bzw. größten Werts.
+
+Test
+Getestet werden sollte das Ganze mit den Methoden IstKleiner und IstGrösser, die den Vergleich für Minimum und Maximum übernehmen.
+
+
+Aufgabenstellung mithilfe von KI zusammengefasst.

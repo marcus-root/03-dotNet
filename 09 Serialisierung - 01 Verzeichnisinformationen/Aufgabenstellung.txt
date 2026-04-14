@@ -1,0 +1,13 @@
+﻿Die Aufgabe war Folgendes: 
+Für Laufwerk C: alle Unterverzeichnisse ermitteln, ihre Informationen in Objekten speichern und als JSON serialisieren.
+
+Inhalt der Objekte
+Für jedes Verzeichnis sollte eine Klasse wie DirInfo den Namen, das Erstellungsdatum und die Anzahl der Dateien als Properties enthalten. 
+Außerdem sollte die Klasse eine überschreibene ToString-Methode für die Konsolenausgabe besitzen.
+
+Speicherung und Ausgabe
+Alle DirInfo-Objekte sollten in einer Liste gesammelt, in eine JSON-Datei geschrieben, anschließend wieder deserialisiert und dann über ToString ausgegeben werden. 
+Falls wegen fehlender Berechtigungen nicht alle Verzeichnisse gelesen werden können, sollte die Dateianzahl für diese Ordner 0 sein.
+
+
+Aufgabenstellung mithilfe von KI zusammengefasst.

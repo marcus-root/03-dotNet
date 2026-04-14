@@ -1,0 +1,17 @@
+﻿Die Aufgabe war Folgendes: 
+Eine Logger-Klasse für das Schreiben von Logeinträgen in eine Datei erstellen und per Delegate ansteuerbar machen.
+
+Logger
+Die Klasse sollte einen Dateipfad entgegennehmen, eine Methode zum Schreiben eines Strings in die Log-Datei besitzen 
+und außerdem eine Methode zum Schließen der Datei haben.
+
+Delegates
+Zusätzlich sollte ein Delegate erstellt werden, der die Log-Methode vertreten kann. 
+Dieser Delegate sollte nicht nur auf die Schreibmethode der Klasse zeigen, sondern auch mit einer Methode aus 
+einer anderen Klasse, etwa Program, kombiniert werden, die die Log-Daten nur auf der Konsole ausgibt.
+
+Zusatz
+Außerdem sollte dem Delegate eine anonyme Methode hinzugefügt werden, die den übergebenen String in Großbuchstaben auf der Konsole ausgibt.
+
+
+Aufgabenstellung mithilfe von KI zusammengefasst.

@@ -1,0 +1,11 @@
+﻿Die Aufgabe war Folgendes: 
+Für mehrere Textdateien in einem Verzeichnis die Buchstabenhäufigkeit in unabhängigen Tasks zu berechnen.
+
+Ablauf
+Es sollte ein Verzeichnis Texte angelegt und mit kleinen Textdateien gefüllt werden. Für jede Datei sollte in einem eigenen Task der Inhalt gelesen und die Häufigkeit der Buchstaben bestimmt werden.
+
+Ausgabe
+Die Häufigkeitstabelle sollte zunächst auf der Konsole ausgegeben werden. Anschließend sollte sie zusätzlich in eine Datei geschrieben werden, wobei für jede Eingabedatei eine Ausgabedatei mit der Endung .freq erstellt werden sollte.
+
+
+Aufgabenstellung mithilfe von KI zusammengefasst.

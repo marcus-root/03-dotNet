@@ -1,0 +1,15 @@
+﻿Die Aufgabe war Folgendes: 
+Eine generische Flasche<T>-Klasse in C# erstellen, die mit Getränken wie Bier, Rotwein oder Weißwein gefüllt werden kann.
+
+Flasche-Funktionalität
+Flasche<T> mit Variable inhalt, Methode IstLeer() (true bei leer), Füllen(T getränk) zum Füllen und Leeren() zum Leeren mit Rückgabe des Inhalts.
+
+Getränke-Klassen
+Abstrakte Base Getränk mit Name. Bier mit Brauerei, Methode zur String-Ausgabe und Info()-Ausgabe.
+Rotwein/Weißwein mit Herkunft, String-Methode und Info()-Ausgabe.
+
+Test und Zusatz
+In Main Flaschen und Getränke instanziieren, füllen/leeren. Optional: Constraints für Typensicherheit nur mit Getränk.
+
+
+Aufgabenstellung mithilfe von KI zusammengefasst.

@@ -1,0 +1,17 @@
+﻿Die Aufgabe war Folgendes: 
+Aus Arrays Tupelpaare bilden und auf der Konsole ausgeben.
+
+Paarbildung
+Eine Methode sollte ein int-Array entgegennehmen und jeweils die Werte 1+2, 3+4 usw. als Tupel ausgeben. 
+Wenn das Array eine ungerade Anzahl von Elementen hat, wird das letzte Element ignoriert.
+
+Reißverschluss
+Eine zweite Methode sollte zwei int-Arrays paarweise miteinander kombinieren, also erstes mit erstem, zweites mit zweitem usw. 
+Wenn die Arrays unterschiedlich lang sind, wird nur bis zur Länge des kleineren Arrays gepaart.
+
+Zusatz
+Beide Methoden sollten zusätzlich generisch umgesetzt werden. 
+Außerdem sollten die Tupel nicht nur ausgegeben, sondern auch in einem Array gespeichert und zurückgegeben werden.
+
+
+Aufgabenstellung mithilfe von KI zusammengefasst.

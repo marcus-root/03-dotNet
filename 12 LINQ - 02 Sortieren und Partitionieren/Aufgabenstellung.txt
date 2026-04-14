@@ -1,0 +1,16 @@
+﻿Die Aufgabe war Folgendes: 
+Mit LINQ Sortier- und Partitionierungsoperationen auf Arrays und Dateien anwenden.
+
+Sortieren
+Für ein int-Array sollte die aufsteigende und absteigende Sortierung ausgegeben werden, außerdem alle geraden Zahlen aufsteigend sortiert. 
+Für ein string-Array sollte nach Wortlänge sortiert werden, bei gleicher Länge alphabetisch absteigend, und zusätzlich sollte die Reihenfolge umgedreht werden.
+
+Dateien
+Für ein DirectoryInfo-Objekt sollten Dateien absteigend nach Namen, aufsteigend nach Größe und nach dem Datum des letzten Zugriffs sortiert werden, wobei die jüngsten Dateien zuerst erscheinen.
+
+Partitionierung
+Außerdem sollten aus einem int-Array die ersten fünf, die letzten fünf, die mittleren Elemente ohne die ersten und letzten drei, alle Werte größer als 0 ab dem Anfang und alle Werte nach der 12 ermittelt werden. 
+Für Verzeichnisse sollten zusätzlich die fünf neuesten Dateien und eine Aufteilung in Seiten zu je fünf Dateien ausgegeben werden.
+
+
+Aufgabenstellung mithilfe von KI zusammengefasst.

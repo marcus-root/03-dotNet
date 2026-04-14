@@ -1,0 +1,14 @@
+﻿Die Aufgabe war Folgendes: 
+Mit LINQ verschiedene Filter-Operationen und Aggregationen auf Arrays auszuführen.
+
+Filter-Operationen
+Für ein int-Array sollten alle Zahlen kleiner als 7, alle geraden Zahlen, alle einstelligen ungeraden Zahlen 
+und alle geraden Zahlen ab dem 6. Element ermittelt werden. Für ein string-Array sollten alle Einträge mit drei Zeichen, 
+mit einem o, mit der Endung teen, als Großschreibung der teen-Wörter und mit four gefunden werden.
+
+Aggregationen
+Auf demselben int-Array sollten Summe, kleinster Wert, größter Wert, Durchschnitt, kleinste gerade Zahl, größte ungerade Zahl, 
+Summe aller geraden Zahlen und Durchschnitt der ungeraden Zahlen berechnet werden.
+
+
+Aufgabenstellung mithilfe von KI zusammengefasst.

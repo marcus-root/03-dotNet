@@ -1,0 +1,12 @@
+﻿Die Aufgabe war Folgendes: 
+Eine parametrisierte SimpleList<T> mit zusätzlichen Indexer in C# implementieren.
+
+Liste
+Die Liste sollte als einfach verkettete lineare Liste arbeiten und Einfügen, Löschen, Suchen, die Anzahl der Elemente und die Ausgabe als Array unterstützen. 
+Sie sollte mit allen Typen funktionieren, die IComparable implementieren.
+
+Indexer
+Zusätzlich sollte die Liste einen nur lesbaren Indexer bekommen. Bei einem ungültigen Index sollte eine IndexOutOfRangeException ausgelöst werden.
+
+
+Aufgabenstellung mithilfe von KI zusammengefasst.

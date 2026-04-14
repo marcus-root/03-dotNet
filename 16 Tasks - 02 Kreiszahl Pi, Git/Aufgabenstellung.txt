@@ -1,0 +1,11 @@
+﻿Die Aufgabe war Folgendes: 
+Die serielle Berechnung der Kreiszahl Pi mit Tasks zu parallelisieren.
+
+Ablauf
+Der gegebene Quelltext zur Pi-Berechnung sollte auf mehrere Tasks verteilt werden. Jeder Task sollte sein Zwischenergebnis an den Hauptthread zurückgeben, damit daraus in der Main-Methode die Kreiszahl Pi berechnet werden kann.
+
+Grundlage
+Als Basis sollte der vorhandene Quelltext verwendet werden, der für die parallele Umsetzung entsprechend angepasst wurde.
+
+
+Aufgabenstellung mithilfe von KI zusammengefasst.

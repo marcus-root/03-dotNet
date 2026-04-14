@@ -1,0 +1,12 @@
+﻿Die Aufgabe war Folgendes: 
+Einen generischen binären Suchbaum (BST) in C# mit passendem Interface und Knotenkasse implementieren.
+
+Schnittstelle und Knoten
+Gefordert waren ein IBinaryTree<T> mit Clear, Insert, Delete, Contains, Search und PrintInorder sowie eine BinaryTreeNode<T> mit Data, Left und Right.
+
+Funktionalität
+Der Baum sollte mit IComparable-Typen arbeiten und typische BST-Operationen unterstützen. 
+Zusätzlich sollte die Implementierung mit einer festen Zahlenfolge getestet werden, um zu prüfen, ob PrintInorder die Werte aufsteigend ausgibt.
+
+
+Aufgabenstellung mithilfe von KI zusammengefasst.

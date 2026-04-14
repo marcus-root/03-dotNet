@@ -1,0 +1,12 @@
+﻿Die Aufgabe war Folgendes: 
+Mit LINQ Gruppierungen und Mengenoperationen auf Arrays und Prozessen auszuführen.
+
+Gruppierung
+Ein Array von Zahlwörtern sollte nach Anfangsbuchstaben, nach Länge und nach Anfangsbuchstaben plus Länge gruppiert werden. 
+Zusätzlich sollten Systemprozesse nach Anzahl der Threads und nach Anzahl der Module gruppiert werden, wobei die Prozessnamen in einer Ausgabe alphabetisch sortiert sein sollten.
+
+Mengenoperationen
+Für vorgegebene Arrays sollten die vorkommenden Faktoren ermittelt, die Vereinigungsmenge gebildet, die Schnittmenge geprüft und die Elemente ausgegeben werden, die nur in einem der Arrays vorkommen.
+
+
+Aufgabenstellung mithilfe von KI zusammengefasst.

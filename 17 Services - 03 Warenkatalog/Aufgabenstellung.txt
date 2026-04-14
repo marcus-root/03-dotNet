@@ -1,0 +1,11 @@
+﻿Die Aufgabe war Folgendes: 
+Eine Windows-Forms-Anwendung für einen Warenkatalog zu erstellen, dessen Daten aus einem Webservice kommen.
+
+Datenquelle
+Als Quelle sollte der Webservice api.predic8.de/shop/v2/products verwendet werden. Der Request liefert Produkte zurück, die von der Anwendung verarbeitet werden sollen.
+
+Anzeige
+Die Produkte sollten in einer ListBox dargestellt werden. Wählt der Nutzer ein Produkt aus, sollen die vorhandenen Produktdetails angezeigt werden.
+
+
+Aufgabenstellung mithilfe von KI zusammengefasst.

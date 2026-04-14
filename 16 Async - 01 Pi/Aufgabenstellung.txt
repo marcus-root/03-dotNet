@@ -1,0 +1,14 @@
+﻿Die Aufgabe war Folgendes: 
+Eine asynchrone Pi-Berechnung mit async/await in einer WPF-Anwendung umzusetzen.
+
+Ablauf
+Die Berechnung sollte per Buttonklick gestartet werden. Währenddessen sollte der Button deaktiviert werden, und nach dem Abschluss sollte das Ergebnis in ein Label geschrieben werden. Danach sollte der Button wieder aktiviert werden.
+
+Technik
+Für die Berechnung sollte die gegebene Methode ComputePi asynchron ausgeführt werden. Der Zugriff auf UI-Elemente aus dem Task heraus sollte threadsicher über BeginInvoke bzw. Dispatcher.BeginInvoke erfolgen.
+
+Zusatz
+Optional sollten eine Sanduhr während der Berechnung, ein Abbruch-Button und eine Progressbar mit Progress-Meldungen ergänzt werden.
+
+
+Aufgabenstellung mithilfe von KI zusammengefasst.

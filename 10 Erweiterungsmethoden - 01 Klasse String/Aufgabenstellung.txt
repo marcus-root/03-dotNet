@@ -1,0 +1,12 @@
+﻿Die Aufgabe war Folgendes: 
+Die Klasse String um statische Erweiterungsmethoden zu ergänzen.
+
+Methoden
+Es sollten drei Methoden erstellt werden: ToInt32 zur Umwandlung eines Strings in einen Int32, 
+ReverseString zum Umdrehen eines Strings und IsPalindrome zur Prüfung, ob ein String ein Palindrom ist.
+
+Fehlerfälle
+Bei der Umwandlung in Int32 sollten passende Ausnahmen wie OverflowException oder FormatException auftreten, falls die Konvertierung nicht möglich ist.
+
+
+Aufgabenstellung mithilfe von KI zusammengefasst.

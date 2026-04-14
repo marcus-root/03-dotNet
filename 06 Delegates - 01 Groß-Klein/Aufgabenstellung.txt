@@ -1,0 +1,15 @@
+﻿Die Aufgabe war Folgendes: 
+Einen Delegate-Typ CharacterHandler in C# definieren und damit Zeichenketten in Groß- und Kleinbuchstaben verarbeiten.
+
+Aufgabeninhalt
+In einer Klasse Character sollten die Methoden UpperCase, LowerCase und UpperLower erstellt werden, 
+die jeweils einen String annehmen und ihn in Großbuchstaben, Kleinbuchstaben oder unverändert ausgeben. 
+Dafür sollten ToUpper und ToLower verwendet werden.
+
+Delegates
+Die Delegate-Aufrufe sollten im Hauptprogramm getestet werden, inklusive eines MulticastDelegate. 
+Zusätzlich sollten Eigenschaften und Methoden der Klasse Delegate ausprobiert werden. 
+Als Zusatz sollte eine anonyme Methode erstellt und dem CharacterHandler zugewiesen werden.
+
+
+Aufgabenstellung mithilfe von KI zusammengefasst.

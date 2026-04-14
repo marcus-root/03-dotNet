@@ -1,0 +1,13 @@
+﻿Die Aufgabe war Folgendes: 
+Das klassische FizzBuzz-Problem sollte erst gelöst und dann über eine JSON-Datei verallgemeinert werden.
+
+Klassische Aufgabe
+Für die Zahlen 1 bis 100 sollte jede Zahl in einer eigenen Zeile ausgegeben werden. Zahlen, die durch 3 teilbar sind, 
+sollten als Fizz erscheinen, Zahlen, die durch 5 teilbar sind, als Buzz, und Zahlen, die durch beide teilbar sind, als FizzBuzz.
+
+Verallgemeinerung per JSON
+Anschließend sollten die Teilbarkeitsregeln und Ausgaben frei definierbar sein, auch mit mehr als zwei Teilern. 
+Diese Vorgaben sollten aus einer JSON-Datei gelesen werden, deren Name als Kommandozeilenargument übergeben wird.
+
+
+Aufgabenstellung mithilfe von KI zusammengefasst.

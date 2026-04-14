@@ -1,0 +1,14 @@
+﻿Die Aufgabe war Folgendes: 
+Eine Konsolenanwendung mit einem Feiertag-Service für deutsche Feiertage zu erstellen.
+
+Ablauf
+Beim Start sollte die Anwendung nach Jahr und Bundesland fragen und anschließend alle passenden Feiertage ausgeben.
+
+Datenquelle
+Dafür sollte die API von api-feiertage.de verwendet werden. Die Kürzel der Bundesländer sollten als Tupel in einer Liste gespeichert werden.
+
+Zusatz
+Bei einem vergangenen Jahr oder einem Jahr zu weit in der Zukunft sollte der Service eine passende Meldung ausgeben.
+
+
+Aufgabenstellung mithilfe von KI zusammengefasst.

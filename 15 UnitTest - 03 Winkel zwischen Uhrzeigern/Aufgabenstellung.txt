@@ -1,0 +1,14 @@
+﻿Die Aufgabe war Folgendes: 
+Ein Konsolenprogramm zu schreiben, das den Winkel zwischen Stunden- und Minutenzeiger einer analogen Uhr berechnet.
+
+Eingabe
+Das Programm sollte eine Uhrzeit im Format HHMM abfragen. Erlaubt waren Werte von 0000 bis 2359; 2400 war ausdrücklich nicht erlaubt. Sekunden wurden nicht berücksichtigt.
+
+Berechnung
+Zuerst sollten die Formeln für den Winkel des Stundenzeigers und des Minutenzeigers zur 12-Uhr-Position hergeleitet werden. Anschließend sollte der Winkel zwischen beiden Zeigern als Betrag der Differenz berechnet und auf den Bereich 0 bis 180 begrenzt werden.
+
+Tests
+Die korrekte Funktion sollte mit Unit-Tests abgesichert werden.
+
+
+Aufgabenstellung mithilfe von KI zusammengefasst.

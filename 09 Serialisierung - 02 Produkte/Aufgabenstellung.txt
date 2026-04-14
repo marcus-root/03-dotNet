@@ -1,0 +1,9 @@
+﻿Die Aufgabe war Folgendes: 
+Auf Basis einer Produkte.json-Datei eine Produktanzeige erstellen, bei der Kategorien und Produkte dynamisch zusammenhängen.
+
+Verhalten der Oberfläche
+Wählt der Anwender in der ComboBox eine Kategorie aus, soll sich die Produktliste automatisch anpassen. 
+Wählt er ein Produkt aus der Liste, sollen rechts im Fenster der Name und der Preis des aktuell gewählten Produkts in Textboxen erscheinen.
+
+
+Aufgabenstellung mithilfe von KI zusammengefasst.

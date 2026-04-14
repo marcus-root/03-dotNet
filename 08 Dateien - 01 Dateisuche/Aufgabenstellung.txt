@@ -1,0 +1,13 @@
+﻿Die Aufgabe war Folgendes: 
+Ein C#-Programm zur Dateisuche und zum Anhängen von Textzeilen erstellen.
+
+Ablauf
+Das Programm sollte mehrere Textzeilen von der Tastatur einlesen, jede Zeile mit einem Zeitstempel 
+versehen und die Eingabe mit einem einzelnen Punkt . beenden.
+
+Dateioperation
+Anschließend sollten die Zeilen ans Ende einer Datei geschrieben werden. Dafür sollte zuerst eine 
+leere Datei angelegt und das Programm so gebaut werden, dass es diese Datei in einem Laufwerk oder Ordner findet.
+
+
+Aufgabenstellung mithilfe von KI zusammengefasst.

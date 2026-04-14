@@ -1,0 +1,19 @@
+﻿Die Aufgabe war Folgendes: 
+Ein Ereignis-basiertes Klassenmodell für Flüsse und ihre Beobachter erstellen.
+
+Flussmodell
+Ein Fluss sollte einen Namen und einen Wasserstand zwischen 100 und 10.000 haben. 
+Änderungen am Wasserstand sollten Beobachter benachrichtigen, damit bei Gefahr reagiert werden kann.
+
+Beobachter
+Es gab drei Beobachtertypen: Schiffe, die bei zu niedrigem oder zu hohem Wasserstand anhalten, 
+Städte, die bei zu hohem Wasserstand eine Schutzwand errichten, 
+und Klärwerke, die bei hohem Wasserstand Einleitungen stoppen und bei niedrigem wieder steigern.
+
+Testfall
+Als Testprogramm sollten die Flüsse Rhein und Donau verwendet werden. 
+Der Rhein sollte die Beobachter Stadt Köln, Stadt Düsseldorf sowie die Schiffe Rheingold und Lorelei erhalten; 
+die Donau die Stadt Ulm, die Schiffe Xaver und Franz und das Klärwerk Strauß 1.
+
+
+Aufgabenstellung mithilfe von KI zusammengefasst.

@@ -1,0 +1,12 @@
+﻿Die Aufgabe war Folgendes: 
+Ein C#-Programm mit Stacks erstellen, das zwei Dinge kann: tac nachbilden und Klammerausdrücke prüfen.
+
+tac-Funktion
+Das Programm bekommt einen Dateinamen und gibt den Inhalt der Datei in umgekehrter Zeilenreihenfolge aus.
+
+Klammersetzung
+Zusätzlich fragt das Programm nach einem mathematischen Ausdruck und prüft, ob er korrekt geklammert ist. 
+Korrekt bedeutet: Jede öffnende Klammer hat eine passende schließende Klammer und die Reihenfolge stimmt.
+
+
+Aufgabenstellung mithilfe von KI zusammengefasst.

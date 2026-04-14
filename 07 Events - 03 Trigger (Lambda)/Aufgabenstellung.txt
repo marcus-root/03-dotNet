@@ -1,0 +1,16 @@
+﻿Die Aufgabe war Folgendes: 
+Eine Zählerklasse Counter mit Delegates, Events und Lambda-Ausdrücken erstellen.
+
+Funktion
+Die Klasse sollte einen Zählerstand erhöhen und zurücksetzen können. 
+Sobald eine bestimmte Bedingung erfüllt ist, etwa Zählerstand >= 1000, sollte ein Event ausgelöst werden.
+
+Delegates und Lambda
+Sowohl die Bedingung als auch die Aktion beim Erreichen des Grenzwerts sollten als Delegates übergeben werden können. 
+Als Zusatz sollten dafür Lambda-Ausdrücke verwendet werden.
+
+Zusatz
+Optional sollte außerdem eine alternative Counter-Variante erstellt werden, die die generischen Delegates Func und Action verwendet.
+
+
+Aufgabenstellung mithilfe von KI zusammengefasst.

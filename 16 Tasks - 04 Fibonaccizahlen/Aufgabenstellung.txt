@@ -1,0 +1,11 @@
+﻿Die Aufgabe war Folgendes: 
+Fibonacci-Zahlen mit Tasks berechnen und die Ergebnisse erst nach Abschluss aller Tasks ausgeben.
+
+Umsetzung
+Pro Fibonacci-Zahl sollte ein eigener Task mit einem Lambda-Ausdruck gestartet werden. Dafür war eine rekursive Fibonacci-Methode vorgesehen, der die Position der gewünschten Zahl übergeben wird.
+
+Ausgabe
+Es sollten zum Beispiel 15 Zahlen ab der 30. Fibonacci-Zahl berechnet werden, damit die Laufzeit spürbar ist. Während der Berechnung sollte die Anwendung mit Punkten auf dem Bildschirm signalisieren, dass sie arbeitet, und nach der Ausgabe aller Ergebnisse sollte sie auf einen Tastendruck warten.
+
+
+Aufgabenstellung mithilfe von KI zusammengefasst.

@@ -1,0 +1,13 @@
+﻿Die Aufgabe war Folgendes: 
+Mit regulären Ausdrücken aus einer Textdatei bestimmte Zeilen und Treffer zu ermitteln.
+
+Gesuchte Muster
+Es sollten alle Zeilen mit Umlauten, mit dem alleinstehenden Wort „der“, mit einem Großbuchstaben am Zeilenanfang,
+mit „Frosch“ oder „Froschkönig“, mit Punkt am Zeilenende und mit Wörtern auf „-ß“ wie „daß“, „saß“ oder „heiß“ gefunden werden.
+Außerdem sollten die Anzahl leerer Zeilen, Zeilen mit einem Wort aus genau drei Buchstaben am Anfang und Zeilen mit den
+Artikeln „der“, „die“ oder „das“ ausgegeben werden.
+
+Zusätzlich sollten zu jeder Aufgabe die Zeilennummern und die Anzahl der Treffer ausgegeben werden.
+
+
+Aufgabenstellung mithilfe von KI zusammengefasst.

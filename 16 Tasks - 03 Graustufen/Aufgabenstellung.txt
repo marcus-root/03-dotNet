@@ -1,0 +1,14 @@
+﻿Die Aufgabe war Folgendes: 
+Grafikdateien in einem überwachten Ordner per Task in Graustufen umzuwandeln.
+
+Überwachung
+Ein FileSystemWatcher sollte einen Ordner beobachten. Sobald dort eine Grafikdatei kopiert wird, sollte die Verarbeitung gestartet werden.
+
+Verarbeitung
+Jede Bilddatei sollte in einen eigenen Task gegeben und mit der vorgegebenen Methode in ein Schwarzweißbild umgewandelt werden. Das Ergebnis sollte in einem anderen Ordner gespeichert werden. Für die Umsetzung waren SkiaSharp, SKBitmap und SKColor vorgesehen.
+
+Hinweis
+Beim Kopieren großer Bilder konnte der Watcher bereits auslösen, bevor der Kopiervorgang abgeschlossen war. Genau diesen Fall sollte die Lösung berücksichtigen.
+
+
+Aufgabenstellung mithilfe von KI zusammengefasst.

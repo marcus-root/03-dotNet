@@ -1,0 +1,12 @@
+﻿Die Aufgabe war Folgendes: 
+Mit einem Dictionary die Worthäufigkeit in einer Datei auszuwerten.
+
+Anforderungen
+Es sollte ausgegeben werden, wie oft jedes Wort vorkommt. Zusätzlich sollte eine nach Wörtern sortierte Auflistung erstellt werden.
+
+Vorverarbeitung
+Vor der Auswertung sollten Satz- und Sonderzeichen entfernt werden. 
+Außerdem sollte Groß- und Kleinschreibung ignoriert werden, damit zum Beispiel „Ist“ und „ist“ gleich zählen.
+
+
+Aufgabenstellung mithilfe von KI zusammengefasst.

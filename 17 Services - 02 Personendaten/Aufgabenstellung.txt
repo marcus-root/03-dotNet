@@ -1,0 +1,11 @@
+﻿Die Aufgabe war Folgendes: 
+Ein Programm zu erstellen, das zu einem eingegebenen Vornamen geschätztes Alter, Geschlecht und wahrscheinliche Nationen ermittelt.
+
+Eingabe
+Das Programm sollte einen Vornamen von der Tastatur einlesen.
+
+Webservices
+Für die Auswertung sollten die Webservices genderize.io, agify.io und nationalize.io verwendet werden. Damit sollten Alter, Geschlecht und die primär verwendeten Nationen zum Namen ermittelt werden.
+
+
+Aufgabenstellung mithilfe von KI zusammengefasst.

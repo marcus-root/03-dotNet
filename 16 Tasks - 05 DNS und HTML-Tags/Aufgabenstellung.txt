@@ -1,0 +1,14 @@
+﻿Die Aufgabe war Folgendes: 
+In einer WPF-Anwendung DNS-Auflösung und das Zählen von HTML-Tags parallel mit Tasks durchzuführen.
+
+DNS-Auflösung
+Aus einer Textdatei mit Hostnamen sollten die IP-Adressen zu jedem Host ermittelt werden. Diese Informationsermittlung sollte parallel erfolgen.
+
+HTML-Tags
+Anschließend sollte der HTML-Quelltext der Hosts heruntergeladen und die HTML-Tags darin gezählt werden, optional auch nur ausgewählte Tags. Auch das Herunterladen und Zählen sollte parallel ablaufen.
+
+Ausgabe und Zusatz
+Die Ergebnisse sollten in einem passenden Format dargestellt werden. Fehler sollten abgefangen und dem Nutzer angezeigt werden. Zusätzlich sollte die Anwendung abbrechbar sein.
+
+
+Aufgabenstellung mithilfe von KI zusammengefasst.

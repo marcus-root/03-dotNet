@@ -1,0 +1,11 @@
+﻿Die Aufgabe war Folgendes: 
+Ein Programm zu schreiben, das aus einer Datei für jede Produktkategorie den Durchschnittspreis ermittelt.
+
+Dateiaufbau
+Die Eingabedatei enthielt Produktname, Preis und Kategorie in einem festen Format, zum Beispiel SSD;161,00;Hardware.
+
+Ziel
+Für jede Kategorie sollte der Durchschnittspreis berechnet und ausgegeben werden.
+
+
+Aufgabenstellung mithilfe von KI zusammengefasst.

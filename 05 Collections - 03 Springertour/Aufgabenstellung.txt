@@ -1,0 +1,12 @@
+﻿Die Aufgabe war Folgendes: 
+Ein Programm zur Springer-Tour auf einem leeren 8x8-Schachbrett erstellen.
+
+Ziel
+Für eine gewählte Startposition sollte eine Zugliste gefunden werden, sodass jedes Feld genau einmal besucht wird.
+
+Vorgehen
+Dafür sollte die beschriebene Heuristik verwendet werden: Startposition abfragen, dann für jeden Zug die möglichen Zielfelder bestimmen, 
+deren mögliche Nachfolger zählen und jeweils das Feld mit der kleinsten Anzahl wählen. Bei Gleichstand durfte eines der Felder frei gewählt werden.
+
+
+Aufgabenstellung mithilfe von KI zusammengefasst.

@@ -1,0 +1,13 @@
+﻿Die Aufgabe war Folgendes: 
+Eine WarpKern-Klasse mit Events für Temperaturänderungen und Übertemperatur erstellen.
+
+Kernfunktion
+Die Klasse sollte eine WarpkernTemperatur-Property besitzen, deren Änderungen über ein Event gemeldet werden. 
+Zusätzlich sollte ein weiteres Event ausgelöst werden, wenn die Temperatur über 500 Grad steigt.
+
+Anzeige
+Außerdem sollte eine WarpkernKonsole-Klasse die Temperatur und eine Warnmeldung auf einer Konsole darstellen. 
+Dafür sollten alte und neue Temperatur sowie die aktuelle Uhrzeit über ein EventArgs-Objekt übergeben werden.
+
+
+Aufgabenstellung mithilfe von KI zusammengefasst.

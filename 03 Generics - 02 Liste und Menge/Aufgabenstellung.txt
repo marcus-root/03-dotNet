@@ -1,0 +1,13 @@
+﻿Die Aufgabe war Folgendes: 
+Zwei generische Klassen in C# implementieren – SimpleList<T> und darauf basierend Set<T> – für Listen- und Mengenoperationen.
+
+SimpleList<T>
+Parametrisierte Klasse für einfach verkettete Liste mit IComparable-Elementen. 
+Operationen: Einfügen, Löschen, Suchen, Anzahl Elemente zurückgeben, Array erzeugen.
+
+Set<T>
+Basierend auf SimpleList<T>, parametrisiert für Menge (einmalige Elemente). 
+Operationen: Einfügen (ohne Duplikate), Löschen, Suchen, Anzahl, Array, Vereinigung zweier Mengen gleichen Typs, Schnittmenge zweier Mengen gleichen Typs.
+
+
+Aufgabenstellung mithilfe von KI zusammengefasst.

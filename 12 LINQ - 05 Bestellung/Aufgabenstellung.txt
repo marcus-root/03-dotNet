@@ -1,0 +1,12 @@
+﻿Die Aufgabe war Folgendes: 
+Aus zwei JSON-Dateien mit LINQ per join eine Bestellübersicht zu erzeugen.
+
+Daten
+Aus bestellung.json und alleArtikel.json sollten die notwendigen Klassen erstellt und die Daten deserialisiert werden.
+
+Ausgabe
+Für jede Bestellposition sollten Artikelnummer, Name, Anzahl und der summierte Preis ausgegeben werden. 
+Anschließend sollte der Gesamtpreis der gesamten Bestellung berechnet und ausgegeben werden.
+
+
+Aufgabenstellung mithilfe von KI zusammengefasst.

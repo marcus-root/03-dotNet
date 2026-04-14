@@ -2,17 +2,17 @@
   <Project Path="01 Exceptions - 01 Person und Datum/01 Exceptions - 01 Person und Datum.csproj" />
   <Project Path="01 Exceptions - 02 Bahnhöfe und Züge/01 Exceptions - 02 Bahnhöfe und Züge.csproj" />
   <Project Path="02 RegEx - 01 Froschkönig/02 RegEx - 01 Froschkönig.csproj" />
-  <Project Path="03 Generics - 02 Liste und Menge/03 Generics - 02 Liste und Menge.csproj" />
   <Project Path="03 Generics - 01 Flaschen/03 Generics - 01 Flaschen.csproj" />
+  <Project Path="03 Generics - 02 Liste und Menge/03 Generics - 02 Liste und Menge.csproj" />
   <Project Path="03 Generics - 03 Bäume/03 Generics - 03 Bäume.csproj" />
   <Project Path="04 Indexer - 01 Liste/04 Indexer - 01 Liste.csproj" />
   <Project Path="05 Collections - 01 Stacks, Kommando tac, Klammersetzung/05 Collections - 01 Stacks, Kommando tac, Klammersetzung.csproj" />
   <Project Path="05 Collections - 02 Dictionary, Worthäufigkeit/05 Collections - 02 Dictionary, Worthäufigkeit.csproj" />
   <Project Path="05 Collections - 03 Springertour/05 Collections - 03 Springertour.csproj" />
   <Project Path="06 Delegates - 01 Groß-Klein/06 Delegates - 01 Groß-Klein.csproj" />
-  <Project Path="07 Events - 01 Warpkern/07 Events - 01 Warpkern.csproj" />
   <Project Path="06 Delegates - 02 Array Min Max/06 Delegates - 02 Array Min Max.csproj" />
   <Project Path="06 Delegates - 03 Logger/06 Delegates - 03 Logger.csproj" />
+  <Project Path="07 Events - 01 Warpkern/07 Events - 01 Warpkern.csproj" />
   <Project Path="07 Events - 02 Beobachter am Fluss/07 Events - 02 Beobachter am Fluss.csproj" />
   <Project Path="07 Events - 03 Trigger (Lambda)/07 Events - 03 Trigger (Lambda).csproj" />
   <Project Path="08 Dateien - 01 Dateisuche/08 Dateien - 01 Dateisuche.csproj" />
@@ -27,15 +27,16 @@
   <Project Path="12 LINQ - 03 Gruppierung und Mengenoperationen/12 LINQ - 03 Gruppierung und Mengenoperationen.csproj" />
   <Project Path="12 LINQ - 04 Durchschnitt von Kategorien/12 LINQ - 04 Durchschnitt von Kategorien.csproj" />
   <Project Path="12 LINQ - 05 Bestellung/12 LINQ - 05 Bestellung.csproj" />
+  <Project Path="13 Tupel - 01 Grundlagen/13 Tupel - 01 Grundlagen.csproj" Id="c585fb96-938f-4ad3-b55d-332c766a5102" />
   <Project Path="15 UnitTest - 03 Winkel zwischen Uhrzeigern/15 UnitTest - 03 Winkel zwischen Uhrzeigern.csproj" />
+  <Project Path="16 Async - 01 Pi (WPF)/16 Async - 01 Pi (WPF).csproj" Id="680777cd-5fd8-455a-b85c-243af1f64f31" />
+  <Project Path="16 Async - 01 Pi/16 Async - 01 Pi.csproj" Id="0abbc39b-d910-4fd0-b863-892132b42d4f" />
   <Project Path="16 Tasks - 01 Grundlagen/16 Tasks - 01 Grundlagen.csproj" Id="e4dee49a-86f2-4829-9a0a-fb2bd48d4325" />
   <Project Path="16 Tasks - 02 Kreiszahl Pi, Git/16 Tasks - 02 Kreiszahl Pi, Git.csproj" Id="a93e4a15-d91a-472d-9cfa-10816cd5ecb4" />
   <Project Path="16 Tasks - 03 Graustufen/16 Tasks - 03 Graustufen.csproj" Id="692f69a1-00c7-454d-98ae-68fb500c4cef" />
   <Project Path="16 Tasks - 04 Fibonaccizahlen/16 Tasks - 04 Fibonaccizahlen.csproj" Id="4b153e70-1692-482a-884c-f1fed71111d7" />
   <Project Path="16 Tasks - 05 DNS und HTML-Tags/16 Tasks - 05 DNS und HTML-Tags.csproj" Id="d0e1ec99-38b8-4523-919c-81d80d01ad9e" />
-  <Project Path="17 Services - 03 Warenkatalog/17 Services - 03 Warenkatalog.csproj" Id="82d2d84a-9595-42bb-9b42-803392010e0b" />
-  <Project Path="16 Async - 01 Pi (WPF)/16 Async - 01 Pi (WPF).csproj" Id="680777cd-5fd8-455a-b85c-243af1f64f31" />
-  <Project Path="16 Async - 01 Pi/16 Async - 01 Pi.csproj" Id="0abbc39b-d910-4fd0-b863-892132b42d4f" />
   <Project Path="17 Services - 01 Feiertage/17 Services - 01 Feiertage.csproj" Id="b2a07f2d-38b9-4e61-8d9d-b43331c2cff5" />
   <Project Path="17 Services - 02 Personendaten/17 Services - 02 Personendaten.csproj" Id="4a8eefec-35f8-4a32-b940-ad47a8e1c0d1" />
+  <Project Path="17 Services - 03 Warenkatalog/17 Services - 03 Warenkatalog.csproj" Id="82d2d84a-9595-42bb-9b42-803392010e0b" />
 </Solution>

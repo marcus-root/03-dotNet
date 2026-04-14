@@ -1,0 +1,16 @@
+﻿Die Aufgabe war Folgendes: 
+Ein Programm mit FileSystemWatcher erstellen, das ein Verzeichnis überwacht und auf neue .lookup-Dateien reagiert.
+
+Überwachung
+Das Programm sollte zuerst ein Verzeichnis namens Lookup auf einem lokalen Laufwerk überwachen. 
+Sobald dort eine Datei mit der Endung .lookup abgelegt wird, sollte sie automatisch verarbeitet werden.
+
+Verarbeitung
+Die Eingabedatei sollte FQDNs zeilenweise enthalten. Für jeden FQDN sollten alle im DNS hinterlegten IP-Adressen ermittelt werden, 
+wofür die Klasse Dns aus System.Net verwendet werden sollte.
+
+Ausgabe
+Zu jeder Eingabedatei sollte eine Ausgabedatei mit der Endung .resolved erzeugt werden, die für jeden FQDN die gefundenen IP-Adressen enthält.
+
+
+Aufgabenstellung mithilfe von KI zusammengefasst.
